@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab-Week11</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">This app shows the difference between downloading a file on the GUI thread and on a separate thread. The difference is visualised with the circular progress bar..</string>
+    <string name="gui">GUI</string>
+    <string name="thread">Thread</string>
+    <string name="downloadStarted">Download Started</string>
+    <string name="downloadCompleted">Download Completed</string>
+
+</resources>
